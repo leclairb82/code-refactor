@@ -51,9 +51,8 @@ the goal of this project was to take an existing websites code and refactor it s
 
 ## Authors
 
-* **Brett LeClair** 
+**Brett LeClair** 
 
-- [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/leclairb82/)
 - [Link to LinkedIn](www.linkedin.com/in/brett-leclair-71a8bab)
 
