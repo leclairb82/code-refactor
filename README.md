@@ -46,7 +46,7 @@ the goal of this project was to take an existing websites code and refactor it s
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://leclairb82.github.io/code-refactor/)
 
 
 ## Authors
